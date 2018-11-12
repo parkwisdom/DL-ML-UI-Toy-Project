@@ -8,3 +8,4 @@
   주식 예측 코드 추가.
   
   
+![bell](https://user-images.githubusercontent.com/43980901/48329292-6d190900-e68b-11e8-9846-b3c348e398ca.png)
